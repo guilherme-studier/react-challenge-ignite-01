@@ -6,7 +6,7 @@
 
 <!-- Sobre o Projeto -->
 ## 🚀 Sobre o Projeto
-Desafio React com objetivo de desenvolver uma aplicação de controle de tarefas no estilo to-do list, que contém as seguintes funcionalidades:
+Desafio React com objetivo de desenvolver uma aplicação de controle de tarefas no estilo *to do list*, que contém as seguintes funcionalidades:
 
 * Adicionar uma nova tarefa
 * Marcar e desmarcar uma tarefa como concluída
